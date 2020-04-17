@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
  * @author lingyuwang
  * @date 2020-04-17 22:08
  * @since 1.0.9
+ * @deprecated
+ * @see CommonControllerV106
  */
 @RestController
 @RequestMapping("/common")
